@@ -1,0 +1,6 @@
+<!doctype html>
+<html>
+    <body>
+        <h2>My First GitHub Try</h2>
+    </body>
+</html>
